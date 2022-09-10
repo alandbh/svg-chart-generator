@@ -12,6 +12,15 @@
 
 ---
 
+# Usage
+
+-   Run `npm install` or `yard` to download the dependences.
+-   Type `npm run dev` or `yarn dev` to run the application.
+-   Acess `http://localhost:3000/gallery?g1=2&g2=3&g3=4&g4=1&r=16` or...
+    `http://localhost:3000/idea?g1=2&g2=3&g3=4&g4=1&r=10`
+
+---
+
 ## Optional parameters
 
 ### Base Shape Color `bg=`
